@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### Tech Stack  
+### 🛠️ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ---
 
-###  GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyanam1&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanam1&theme=radical" alt="streak" />
@@ -45,4 +45,3 @@
 ---
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨  
-
