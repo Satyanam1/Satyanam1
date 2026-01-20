@@ -12,11 +12,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 I'm a passionate Python learner focused on building strong programming fundamentals.
 I enjoy solving problems, writing clean code, and learning technologies step by step.
 
-•  Currently learning Python, Django, and backend fundamentals
-•  Interested in Data Science & AI
+•  Currently learning Python, Django, and backend fundamentals <br>
+•  Interested in Data Science & AI<br>
 •  Building small projects to improve logic and consistency
 
----
 
 ##  Tech Stack
 
@@ -51,10 +50,10 @@ I enjoy solving problems, writing clean code, and learning technologies step by 
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/satyanam-kumar-95b713273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR-USERNAME" target="_blank">
+  <a href="https://x.com/satya949496" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/imsatyanamyadav/" target="_blank">
