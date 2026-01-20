@@ -1,47 +1,67 @@
 <h1 align="center">Hi 👋, I'm Satyanam</h1>
-<h3 align="center">Python Full Stack Developer | 📊 Data Science Enthusiast | 🤖 AI Learner</h3>
+<h3 align="center">
+Python Developer | Full-Stack Learner | Exploring Data Science & AI
+</h3>
+
+
+<img align="right" alt="Coding" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 👨‍💻 About Me
+
+I'm a passionate Python learner focused on building strong programming fundamentals.
+I enjoy solving problems, writing clean code, and learning technologies step by step.
+
+•  Currently learning Python, Django, and backend fundamentals
+•  Interested in Data Science & AI
+•  Building small projects to improve logic and consistency
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+##  Tech Stack
 
-###  Tech Stack  
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Django-darkgreen?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Django-darkgreen?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-###  GitHub Stats  
+##  GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyanam1&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanam1&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanam1&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyanam1&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanam1&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanam1&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🌍 Connect with Me  
+## 🌍 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/feed/" target="blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/home" target="blank">
+  <a href="https://x.com/YOUR-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/imsatyanamyadav/" target="blank">
+  <a href="https://www.instagram.com/imsatyanamyadav/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”* 🙏💯  
+✨ Code. Learn. Build. Repeat..💯🙏
