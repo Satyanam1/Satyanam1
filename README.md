@@ -27,10 +27,10 @@ I enjoy solving problems, writing clean code, and learning technologies step by 
   <br/>
   <img src="https://img.shields.io/badge/Django-darkgreen?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" /> -->
   <br/>
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" /> -->
 </p>
 
 ---
