@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyanam</h1>
 <h3 align="center">
-Python Developer | Full-Stack Learner | Exploring Data Science & AI
+Full-Stack Developer (Django & React) | Final-Year CSE Student | Open to SDE Roles &  Internships 
 </h3>
 
 
@@ -9,12 +9,12 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
 
-I'm a passionate Python learner focused on building strong programming fundamentals.
+I'm final-year B.Tech CSE student who build and ships real web applications.
 I enjoy solving problems, writing clean code, and learning technologies step by step.
 
-•  Currently learning Python, Django, and backend fundamentals <br>
-•  Interested in Data Science & AI<br>
-•  Building small projects to improve logic and consistency
+•  Built SmartHire - a full-stack job portal, live on PythonAnywhere<br>
+•  Built RecipeHub — a React CRUD app with Context API & Tailwind<br>
+•  Currently sharpening DSA skills & open to SDE internships / entry-level roles
 
 
 ##  Tech Stack
